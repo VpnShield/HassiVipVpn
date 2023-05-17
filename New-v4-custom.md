@@ -1,10 +1,10 @@
 {
 
-"Title": " Hi Bro ;)",
+"Title": " Hassi Vip Vpn",
 
-"Description": "Im Just Moded Time ... \n\n - Tap Join",
+"Description": "jooooooooooin",
 
-"Link": "tg://resolve?domain=MrHassi",
+"Link": "tg://resolve?domain=hassivip",
 
 "ColorWave": "#64dd17",
 
