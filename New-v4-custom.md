@@ -1,1 +1,24 @@
-
+{
+"Title": "✖  Notice   :   توجه  ✖",
+"Description": "Hello ;  To inform about the latest update of this high-speed tunnel;  Enter our official channel.\n\nسلام ؛ برای اطلاع رسانی از آخرین آپدیت این تانل پرسرعت ؛ وارد کانال رسمی ما شوید.",
+"Link": "tg://resolve?domain=hassivip",
+"ColorWave": "#EE4B2B",
+"Color": "#FF9100",
+"ColorWaveTwo": "#ff0000",
+"ColorBackGround": "#ffffff",
+"TitleGravity": "center",
+"MessageGravity": "center",
+"ColorMessage": "#ff323232",
+"ColorTitle": "#ff111111",
+"ColorBtn": "#ffffff",
+"ColorBtnBg": "#00a043",
+"ColorBtnCancell": "#ffffff",
+"ColorBtnCancellBg": "#e90000",
+"Cancellable": "true",
+"MessageID": "1",
+"ShowTime": "999",
+"Button": " Yes , Join  ",
+"ButtonCancell": " No Need ",
+"Closure": "true",
+"Show": "on"
+}
