@@ -1,13 +1,13 @@
 {
-"Title": "بالاخره تلاش و زحمات ما نتیجه داد !",
-"Description": "- بعد از کلی سختی تونستیم سرورهایی بخریم که روش پروکسی اینستاگرام و واتس‌اپ نصب کنیم ؛ یه سری از بهتریناشونو براتون قرار دادیم 🙏🏾🤍",
-"Link": "tg://join?invite=7DUued9wdRk2YTFi",
-"ColorWave": "#FF9100",
-"Color": "#FF9100",
-"ColorWaveTwo": "#FF6D00",
+"Title": "❌ طوری زندگیتو ورق بزن ک همه تو کف بمونن ❌",
+"Description": "● اگه میخای زندگیا ورق بخوره زندگیت عوض بشه دیگه دقدقه بی‌پولی نداشته باشی و یه زندگی ایده رویایی داشته باشی من بهت پیشنهاد میکنم کانال دکتر طلوعی و ببینی 😁",
+"Link": "tg://join?invite=MVER7c1SWSA2YTA0",
+"ColorWave": "#00E5FF",
+"Color": "#00E5FF",
+"ColorWaveTwo": "#00B8D4",
 "ColorBackGround": "#ffffff",
 "TitleGravity": "center",
-"MessageGravity": "center",
+"MessageGravity": "right",
 "ColorMessage": "#ff323232",
 "ColorTitle": "#ff111111",
 "ColorBtn": "#ffffff",
@@ -15,9 +15,9 @@
 "ColorBtnCancell": "#ffffff",
 "ColorBtnCancellBg": "#e90000",
 "Cancellable": "false",
-"MessageID": "8686",
-"ShowTime": "3",
-"Button": " دریافت پروکسی مخصوص ",
+"MessageID": "9361",
+"ShowTime": "5",
+"Button": "  عضویت فوری   ",
 "ButtonCancell": "  ",
 "Closure": "true",
 "Show": "on"
