@@ -30,11 +30,11 @@
 
 "ColorBtnCancellBg": "#e90000",
 
-"Cancellable": "false",
+"Cancellable": "true",
 
 "MessageID": "93833719",
 
-"ShowTime": "5",
+"ShowTime": "10",
 
 "Button": " عضویت فوری ",
 
