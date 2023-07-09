@@ -16,7 +16,7 @@
 "ColorBtnCancellBg": "#e90000",
 "Cancellable": "false",
 "MessageID": "01929338840",
-"ShowTime": "2",
+"ShowTime": "3",
 "Button": " عضویت اجباری ",
 "ButtonCancell": " ",
 "Closure": "true",
